@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pathaiway.com/sitemap.xml
+
+# Block admin areas when added
+# Disallow: /admin/
+
+# Disallow: /api/
